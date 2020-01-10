@@ -1,0 +1,21 @@
+2019/12/07 20:42:01 [error] 1108#6892: *5 CreateFile() "C:\Users\Administrator\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/12/07 21:09:34 [notice] 7272#10772: signal process started
+2019/12/07 21:18:17 [notice] 6188#68: signal process started
+2019/12/07 21:22:55 [notice] 7284#8344: signal process started
+2019/12/07 21:27:58 [error] 6468#8736: *6 CreateFile() "C:\Users\Administrator\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/12/07 21:39:20 [notice] 3120#6096: signal process started
+2019/12/07 21:39:20 [error] 3120#6096: CreateFile() "C:\Users\Administrator\Desktop\nginx-1.15.3/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/12/07 22:03:08 [notice] 10752#6016: signal process started
+2019/12/07 23:06:32 [notice] 10048#2992: signal process started
+2019/12/07 23:38:53 [notice] 11252#9844: signal process started
+2019/12/07 23:39:02 [notice] 5384#4152: signal process started
+2019/12/07 23:39:02 [error] 5384#4152: CreateFile() "C:\Users\Administrator\Desktop\nginx-1.15.3/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/12/07 23:42:02 [notice] 2236#9120: signal process started
+2019/12/07 23:42:02 [error] 2236#9120: CreateFile() "C:\Users\Administrator\Desktop\nginx-1.15.3/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/12/07 23:59:43 [notice] 10224#3224: signal process started
+2019/12/09 08:29:23 [error] 9416#3852: *3 CreateFile() "C:\Users\wx18\Desktop\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/12/09 09:27:59 [error] 9416#3852: *13 CreateFile() "C:\Users\wx18\Desktop\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.8.230, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.8.230", referrer: "http://192.168.8.230/"
+2019/12/12 09:37:07 [error] 4960#9916: *5 CreateFile() "C:\Users\wx18\Desktop\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.8.230, server: 192.168.8.230, request: "GET /favicon.ico HTTP/1.1", host: "192.168.8.230", referrer: "http://192.168.8.230/"
+2019/12/12 11:57:50 [notice] 8308#4508: signal process started
+2020/01/02 08:50:22 [error] 10016#2608: *5 CreateFile() "D:\nginx-demo/html/js/plugins/layer/skin/layer.css" failed (3: The system cannot find the path specified), client: 192.168.8.230, server: 192.168.8.230, request: "GET /js/plugins/layer/skin/layer.css HTTP/1.1", host: "192.168.8.230", referrer: "http://192.168.8.230/"
+2020/01/02 08:50:22 [error] 10016#2608: *4 CreateFile() "D:\nginx-demo/html/js/plugins/layer/extend/layer.ext.js" failed (3: The system cannot find the path specified), client: 192.168.8.230, server: 192.168.8.230, request: "GET /js/plugins/layer/extend/layer.ext.js HTTP/1.1", host: "192.168.8.230", referrer: "http://192.168.8.230/"
